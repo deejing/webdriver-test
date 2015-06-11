@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "test webdrive.io",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "webdriverio": "^2.4.5"
+  }
+}
